@@ -1,0 +1,10 @@
+Toy{id='8', name='Босс', weight=12}
+Toy{id='3', name='Крепыш', weight=11}
+Toy{id='7', name='Смайлик', weight=10}
+Toy{id='6', name='Мисс', weight=7}
+Toy{id='5', name='Пухлик', weight=6}
+Toy{id='1', name='Великан', weight=6}
+Toy{id='4', name='Кроха', weight=5}
+Toy{id='2', name='Гном', weight=4}
+Toy{id='9', name='Пузырь', weight=3}
+Toy{id='10', name='Беби', weight=2}
